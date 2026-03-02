@@ -16,9 +16,6 @@ An intelligent, sentiment-driven music curation tool designed to dynamically mat
 * **Sleek UI Integration:** Designed to look and feel premium, with smooth transitions and a clean aesthetic (Color theme: #A23F3A & White).
 * **Scalable Architecture:** Built to easily integrate into larger web platforms or agency portfolios.
 
-## 🚀 Demo
-*(Link to the screen recording or live demo of the Mood DJ in action on the website here)*
-[Watch the AI Mood DJ Demo](#)
 
 ## 🛠️ Tech Stack
 * **Backend / AI Logic:** [e.g., Python, TensorFlow/PyTorch, OpenAI API]
