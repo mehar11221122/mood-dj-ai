@@ -27,4 +27,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/artmm-ai-mood-dj.git](https://github.com/yourusername/artmm-ai-mood-dj.git)
+   git clone [https://github.com/mehar11221122/mood-dj-ai.git](https://github.com/mehar11221122/mood-dj-ai.git)
