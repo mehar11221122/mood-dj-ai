@@ -22,10 +22,10 @@ import joblib
 import pickle
 
 #API KEYS
-SPOTIPY_CLIENT_ID = "447c3d186e964dadb039fc9402b07add"
-SPOTIPY_CLIENT_SECRET = "f260f26cd59d498688611aae6802bdcd"
-SPOTIPY_REDIRECT_URI = "http://127.0.0.1:8888/callback"
-GENIUS_ACCESS_TOKEN = "LDbl3W1b41z2Bf-S7VBA4frbLWQ4FQWkDLhN-Qy5MpNPxj9kRud7bONjMrADRwY8"
+SPOTIPY_CLIENT_ID = ""
+SPOTIPY_CLIENT_SECRET = ""
+SPOTIPY_REDIRECT_URI = ""
+GENIUS_ACCESS_TOKEN = ""
 
 MAX_SONGS_TO_SCAN = 100
 THREAD_COUNT = 10    
@@ -923,4 +923,5 @@ class AIDJApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = AIDJApp(root)
+
     root.mainloop()
